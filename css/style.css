@@ -1,0 +1,11 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #01010194;
+}
+
+ header{
+background-color: yellow;
+}
